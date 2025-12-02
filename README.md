@@ -22,7 +22,8 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
 #### Tools & Framework
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 12px"/>
@@ -37,7 +38,9 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
 #### Databases & Baas ( Backend as a Services )
 
 <div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 12px"/>
@@ -46,6 +49,8 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
 #### DevOps
 
 <div style="display: flex; flex-direction: row;">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/frankenphp-auto.svg" alt="php" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/caddy-auto.svg" alt="caddy" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 12px"/>
@@ -58,11 +63,10 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
     <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="margin-right: 12px"/>
-    <img src="https://seeklogo.com/images/C/coreldraw-2019-logo-73390B2962-seeklogo.com.png" alt="Coreldraw" width="40" height="40" style="margin-right: 12px"/>
 </div>
 
 ## Portfolio
 
 I'm a fighter who will do everything to become the best version of myself! I'm always eager to learn and level up my skills. Here is my portfolio, the place where I deliver my all ideas and inovations. You'll see innovative solutions and a bunch of web projects here!
 
-[My Portfolio](https://andikads.cloud)
+[My Portfolio](https://andikads.vercel.app)

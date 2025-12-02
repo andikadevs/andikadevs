@@ -1,25 +1,16 @@
 <!-- @format -->
 
-<div align="center">
-    <img src="./ascii.svg" alt="andikadevs ASCII Art" width="600" />
-</div>
-<br />
-<br />
-
 <a href="https://github.com/andikadevs">
-  <img src="./me.jpeg" alt="Profile Picture" width="183" height="183" style="border-radius: 10px; object-fit: cover; vertical-align: top; margin-right: 20px;" />
-</a>
-<a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" height="183" style="vertical-align: top;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" width="100%" style="vertical-align: top;" />
 </a>
 <br />
 
 
 <a href="https://github.com/andikadevs">
-  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="194" style="vertical-align: top; margin-right: 20px;" />
+  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="194.8" style="vertical-align: top; margin-right: 20px;" />
 </a>
 <a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="194" style="vertical-align: top;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="194.8" style="vertical-align: top;" />
 </a>
 <br />
 
@@ -96,3 +87,12 @@ I'm a fighter who will do everything to become the best version of myself! I'm a
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35ce8d&width=435&lines=...Living%2C+learning%2C+%26+leveling+up+one+day+at+a+time+🌿&center=true&vCenter=true&random=false&width=600&height=50" alt="Typing SVG" />
 </div>
+
+<br />
+<br />
+
+<div align="center">
+    <img src="./ascii.svg" alt="andikadevs ASCII Art" width="600" />
+</div>
+<br />
+<br />

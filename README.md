@@ -1,12 +1,31 @@
 <!-- @format -->
 
-# Fullstack Developer 📝
+<div align="center">
+    <img src="./ascii.svg" alt="andikadevs ASCII Art" width="600" />
+</div>
+<br />
+<br />
 
-Hello there! I'm Andika Dwi Saputra, and I'm a Fullstack Developer
+<a href="https://github.com/andikadevs">
+  <img src="./me.jpeg" alt="Profile Picture" width="183" height="183" style="border-radius: 10px; object-fit: cover; vertical-align: top; margin-right: 20px;" />
+</a>
+<a href="https://github.com/andikadevs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" height="183" style="vertical-align: top;" />
+</a>
+<br />
+
+
+<a href="https://github.com/andikadevs">
+  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="194" style="vertical-align: top; margin-right: 20px;" />
+</a>
+<a href="https://github.com/andikadevs">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="194" style="vertical-align: top;" />
+</a>
+<br />
 
 ## 🛠️ Ability toolkit
 
-Can't program everything by myself, can I? Here is a list of all the tools that help me complete all my projects!
+Disclaimer: I'm not an Assembly guy :> Here is a list of all the tools that help me complete all my projects!
 
 #### Programming Language
 
@@ -65,8 +84,15 @@ Can't program everything by myself, can I? Here is a list of all the tools that 
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40" style="margin-right: 12px"/>
 </div>
 
+
 ## Portfolio
 
 I'm a fighter who will do everything to become the best version of myself! I'm always eager to learn and level up my skills. Here is my portfolio, the place where I deliver my all ideas and inovations. You'll see innovative solutions and a bunch of web projects here!
 
 [My Portfolio](https://andikads.vercel.app)
+
+
+<br/>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=35ce8d&width=435&lines=...Living%2C+learning%2C+%26+leveling+up+one+day+at+a+time+🌿&center=true&vCenter=true&random=false&width=600&height=50" alt="Typing SVG" />
+</div>

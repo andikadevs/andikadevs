@@ -7,10 +7,10 @@
 
 
 <a href="https://github.com/andikadevs">
-  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="194.8" style="vertical-align: top; margin-right: 20px;" />
+  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="197" style="vertical-align: top; margin-right: 20px;" />
 </a>
 <a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="194.8" style="vertical-align: top;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="197" style="vertical-align: top;" />
 </a>
 <br />
 
@@ -96,3 +96,4 @@ I'm a fighter who will do everything to become the best version of myself! I'm a
 </div>
 <br />
 <br />
+

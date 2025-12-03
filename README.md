@@ -1,20 +1,17 @@
 <!-- @format -->
 
 <a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" height="193.75" style="vertical-align: top;" />
-</a>
-<a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="193.75" style="vertical-align: top;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" width="100%" style="vertical-align: top;" />
 </a>
 <br />
 
 
-<!-- <a href="https://github.com/andikadevs">
+<a href="https://github.com/andikadevs">
   <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="194.8" style="vertical-align: top; margin-right: 20px;" />
 </a>
 <a href="https://github.com/andikadevs">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="194.8" style="vertical-align: top;" />
-</a> -->
+</a>
 <br />
 
 ## 🛠️ Ability toolkit

@@ -1,12 +1,6 @@
 <!-- @format -->
 
 <a href="https://github.com/andikadevs">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikadevs&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" style="vertical-align: top;" />
-</a>
-<br />
-
-
-<a href="https://github.com/andikadevs">
   <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="204" style="vertical-align: top; margin-right: 20px;" />
 </a>
 <a href="https://github.com/andikadevs">

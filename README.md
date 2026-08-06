@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="middle">
       <a href="https://github.com/andikadevs">
         <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
       </a>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <a href="https://github.com/andikadevs">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="195" />
       </a>

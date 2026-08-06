@@ -2,10 +2,10 @@
 
 <p>
   <a href="https://github.com/andikadevs">
-    <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="195" style="vertical-align: middle; margin-right: 20px;" />
+    <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="160" style="vertical-align: middle; margin-right: 20px;" />
   </a>
   <a href="https://github.com/andikadevs">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="195" style="vertical-align: middle;" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="160" style="vertical-align: middle;" />
   </a>
 </p>
 

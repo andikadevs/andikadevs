@@ -1,19 +1,13 @@
 <!-- @format -->
 
-<table style="border:none;border-collapse:collapse;">
-  <tr style="border:none;">
-    <td valign="middle" style="border:none;padding:0 20px 0 0;">
-      <a href="https://github.com/andikadevs">
-        <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="195" />
-      </a>
-    </td>
-    <td valign="middle" style="border:none;padding:0;">
-      <a href="https://github.com/andikadevs">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="195" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/andikadevs">
+    <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="195" style="vertical-align: middle; margin-right: 20px;" />
+  </a>
+  <a href="https://github.com/andikadevs">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="195" style="vertical-align: middle;" />
+  </a>
+</p>
 
 ## 🛠️ Ability toolkit
 

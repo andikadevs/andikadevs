@@ -1,16 +1,16 @@
 <!-- @format -->
 
 <a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andikadevs&theme=dark" alt="Profile Details" width="100%" style="vertical-align: top;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andikadevs&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" style="vertical-align: top;" />
 </a>
 <br />
 
 
 <a href="https://github.com/andikadevs">
-  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Stats" height="204" style="vertical-align: top; margin-right: 20px;" />
+  <img src="https://streak-stats.demolab.com?user=andikadevs&theme=dark&hide_border=true" alt="GitHub Streak" height="204" style="vertical-align: top; margin-right: 20px;" />
 </a>
 <a href="https://github.com/andikadevs">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andikadevs&theme=dark" alt="Top Languages" height="204" style="vertical-align: top;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikadevs&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="204" style="vertical-align: top;" />
 </a>
 <br />
 
@@ -51,8 +51,8 @@ Disclaimer: I'm not an Assembly guy :> Here is a list of all the tools that help
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="expo" width="40" height="40" style="margin-right: 12px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitest/vitest-original.svg" alt="vitest" width="40" height="40" style="margin-right: 12px"/>
-    <img src="https://img.shields.io/badge/Inertia.js-9553E9?logo=inertia&logoColor=white" alt="inertia" height="40" style="margin-right: 12px"/>
-    <img src="https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white" alt="tanstack" height="40" style="margin-right: 12px"/>
+    <img src="https://avatars.githubusercontent.com/u/47703742" alt="inertia" width="40" height="40" style="margin-right: 12px"/>
+    <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/tanstack-auto.svg" alt="tanstack" width="40" height="40" style="margin-right: 12px"/>
 </div>
 
 #### Databases & Baas ( Backend as a Services )

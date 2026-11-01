@@ -83,11 +83,15 @@ Disclaimer: I'm not an Assembly guy :> Here is a list of all the tools that help
 </div>
 
 
-## Portfolio
+## Portfolio & services
 
-I'm a fighter who will do everything to become the best version of myself! I'm always eager to learn and level up my skills. Here is my portfolio, the place where I deliver my all ideas and inovations. You'll see innovative solutions and a bunch of web projects here!
+I'm Andika, a fullstack developer in Semarang, Indonesia. My portfolio and case studies live at **[andikadevs.space](https://andikadevs.space/)**.
 
-[My Portfolio](https://andikads.vercel.app)
+I also take freelance work: fast landing pages and company websites for small businesses, agencies and schools. Each one comes with on-page SEO, WhatsApp/contact buttons, GA4, Meta Pixel and Search Console set up, a fixed written quote within 24 hours, and a 3-month bug warranty.
+
+- 🌐 [Portfolio](https://andikadevs.space/)
+- 💼 [Services](https://andikadevs.space/services/) · [Jasa pembuatan website (ID)](https://andikadevs.space/id/jasa/)
+- ✉️ [hello@andikadevs.space](mailto:hello@andikadevs.space)
 
 
 <br/>
